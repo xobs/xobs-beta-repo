@@ -1,0 +1,7 @@
+/debian/files
+/debian/xobs-beta-repo.debhelper.log
+/debian/xobs-beta-repo.substvars
+/debian/xobs-beta-repo/
+*.swp
+*.swo
+*~

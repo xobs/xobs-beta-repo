@@ -1,0 +1,3 @@
+# Xobs' beta repository, for work-in-progress patches
+deb http://repo.novena.io/xobs-beta/ jessie main
+deb-src http://repo.novena.io/xobs-beta/ jessie main

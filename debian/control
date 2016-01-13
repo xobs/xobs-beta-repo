@@ -1,0 +1,15 @@
+Source: xobs-beta-repo
+Section: misc
+Priority: optional
+Maintainer: Sean Cross <xobs@kosagi.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
+Homepage: http://kosagi.com/
+
+Package: xobs-beta-repo
+Architecture: all
+Depends: ${misc:Depends}
+Description: Beta repo configuration file
+ Before packages make their way to the final Kosagi repo, they first go through
+ this repo for testing.  These packages are nominally stable, but may have some
+ rough edges.
